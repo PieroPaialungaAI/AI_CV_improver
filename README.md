@@ -45,14 +45,20 @@ This script is less "user friendly", but very efficient. It doesn't print anythi
 
 This is an example using the script on my CV.
 
-```Input SUMMARY: 
+__Input SUMMARY:__ 
 
-I’m a Physicist that has developed strong skills in Data Science and Deep Learning.Master’s Degree in Physics Of Complex Systems and Big Data (grade: 110/110 cum laude).Currently working as a Research Assistant with the Aerospace Engineering and Engineering Mechanics Department of the University of Cincinnati while pursuing the PhD. The goal of my research is finding ways to optimize engineering experiments using Machine Learning and Data Science.Technical writer for Towards Data Science about trending Machine Learning applications and techniques to real world problems (60k+ monthly views). Course Creator and Teacher for Teens in AI. Developer of Image Processing I and Signal Processing I courses.
-```
+I’m a Physicist that has developed strong skills in Data Science and Deep Learning.Master’s Degree in Physics Of Complex Systems and Big Data (grade: 110/110 cum laude).
 
-```AI Improved SUMMARY: 
+Currently working as a Research Assistant with the Aerospace Engineering and Engineering Mechanics Department of the University of Cincinnati while pursuing the PhD. 
+
+The goal of my research is finding ways to optimize engineering experiments using Machine Learning and Data Science.Technical writer for Towards Data Science about trending Machine Learning applications and techniques to real world problems (60k+ monthly views). 
+
+Course Creator and Teacher for Teens in AI. Developer of Image Processing I and Signal Processing I courses.
+
+*** 
+__AI Improved SUMMARY:__
 
 I am an exceptionally talented Physicist with an impressive background in Data Science and Deep Learning. I have achieved an outstanding grade of 110/110 cum laude in my Master's Degree in Physics Of Complex Systems and Big Data. I am currently employed as a Research Assistant at the Aerospace Engineering and Engineering Mechanics Department of the University of Cincinnati, where I am optimizing engineering experiments through the use of Machine Learning and Data Science techniques. Additionally, I am a Technical Writer for Towards Data Science, with over 60k monthly views, and have created and instructed Courses in Image Processing I and Signal Processing I for Teens in AI.
-```
+
 
 
