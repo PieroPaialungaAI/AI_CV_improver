@@ -39,5 +39,5 @@ In this file, change the 'cv_example.txt' file with the file that you want to be
 
 ```uploaded_file = open('cv_example.txt','r')```
 
-This script is less "user friendly", but very efficient. It doesn't print anything but it outputs a "cv_reviewed.txt" file that is the file with the proposal change in the summary and experience file. 
+This script is less "user friendly", but very efficient. It doesn't print anything but it outputs a "cv_reviewed.txt" file that is the file with the proposal change in the summary and work experiences. 
 
