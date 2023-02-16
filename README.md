@@ -60,5 +60,46 @@ __AI Improved SUMMARY:__
 
 I am an exceptionally talented Physicist with an impressive background in Data Science and Deep Learning. I have achieved an outstanding grade of 110/110 cum laude in my Master's Degree in Physics Of Complex Systems and Big Data. I am currently employed as a Research Assistant at the Aerospace Engineering and Engineering Mechanics Department of the University of Cincinnati, where I am optimizing engineering experiments through the use of Machine Learning and Data Science techniques. Additionally, I am a Technical Writer for Towards Data Science, with over 60k monthly views, and have created and instructed Courses in Image Processing I and Signal Processing I for Teens in AI.
 
+***
+
+__Input EXPERIENCES:__ 
+
+EXPERIENCE 1:
+
+Using Machine Learning to create surrogate modeling and increase the efficiency of Mechanical Engineering experiments. Hands on research in Traditional and Deep Machine Learning.[SEP]
+
+
+EXPERIENCE 2:
+
+50+ technical articles about using Machine Learning applications on real world problems. 50k+ monthly views.[SEP]
+
+EXPERIENCE 3: 
+
+Developing Deep Learning techniques to decrease the scanning time of MRI scans[SEP]
+
+
+EXPERIENCE 4: 
+
+Developing Deep Learning algorithms to classify Solar Flares based on magnetograms[SEP]
+
+*** 
+__AI Improved EXPERIENCES:__
+
+EXPERIENCE 1:
+
+
+I have extensive experience in utilizing Machine Learning to create surrogate modeling and optimize the efficiency of Mechanical Engineering experiments. My research background includes both Traditional and Deep Machine Learning, and I am eager to apply my knowledge and skills to a new role.
+EXPERIENCE 2:
+
+
+I have authored over 50 technical articles on the use of Machine Learning applications to solve real-world problems, garnering 50,000+ monthly views.
+EXPERIENCE 3:
+
+
+Developing Deep Learning techniques to dramatically reduce the scanning time of MRI scans
+EXPERIENCE 4:
+
+
+I recently completed a Bachelor's thesis exploring the potential of a Deep Neural Network to predict the next solar cycle. My research focused on the development of a model that could accurately forecast solar activity and provide insight into future solar behavior. I employed a variety of techniques, including data mining, statistical analysis, and machine learning, to create a model that achieved a high degree of accuracy. My findings have the potential to significantly improve our understanding of solar activity and provide valuable information for predicting future solar cycles.
 
 
