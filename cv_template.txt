@@ -1,0 +1,61 @@
+NAME:
+
+<first name, last name>
+
+DOB:
+
+<YYYY/MM/DD> (optional)
+
+WORKING AS:
+
+<Title 1, Title 2, Title 3>
+
+SUMMARY:
+
+<insert text here>
+
+EXPERIENCE 1:
+
+<insert title> [SEP]
+<insert company> [SEP]
+<YYYY/MM-YYYY/MM>[SEP]
+<insert text here>[SEP]
+
+EXPERIENCE 2:
+
+<insert title> [SEP]
+<insert company>[SEP]
+<YYYY/MM-YYYY/MM>[SEP]
+<insert text here>[SEP]
+
+EXPERIENCE 3: 
+
+<insert title>[SEP]
+<insert company>[SEP]
+<YYYY/MM-YYYY/MM>[SEP]
+<insert optional text here>[SEP]
+
+SCHOOL 1:
+
+<insert school>[SEP]
+<insert major>[SEP]
+<YYYY/MM-YYYY/MM>[SEP]
+#<insert optional text here>[SEP]
+
+SCHOOL 2:
+
+<insert school>[SEP]
+<insert major>[SEP]
+<YYYY/MM-YYYY/MM>[SEP]
+<insert optional text here>[SEP]
+
+SCHOOL 3:
+
+<insert school>[SEP]
+<insert major>[SEP]
+<YYYY/MM-YYYY/MM>[SEP]
+<insert optional text here>[SEP]
+
+CONTACTS:
+
+<insert contacts>

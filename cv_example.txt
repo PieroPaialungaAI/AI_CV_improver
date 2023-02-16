@@ -1,0 +1,76 @@
+NAME:
+
+Piero Paialunga
+
+DOB:
+
+1997/08/25
+
+WORKING AS:
+
+Physicist, Data Scientist, Technical Writer
+
+SUMMARY:
+
+I’m a Physicist that has developed strong skills in Data Science and Deep Learning.Master’s Degree in Physics Of Complex Systems and Big Data (grade: 110/110 cum laude).Currently working as a Research Assistant with the Aerospace Engineering and Engineering Mechanics Department of the University of Cincinnati while pursuing the PhD. The goal of my research is finding ways to optimize engineering experiments using Machine Learning and Data Science.Technical writer for Towards Data Science about trending Machine Learning applications and techniques to real world problems (60k+ monthly views). Course Creator and Teacher for Teens in AI. Developer of Image Processing I and Signal Processing I courses.
+
+
+EXPERIENCE 1:
+
+Research Assistant[SEP]
+Aerospace Engineering and Engineering Mechanics Department, University of Cincinnati[SEP]
+2021/08/DD-Today[SEP]
+Using Machine Learning to create surrogate modeling and increase the efficiency of Mechanical Engineering experiments. Hands on research in Traditional and Deep Machine Learning.[SEP]
+
+
+EXPERIENCE 2:
+
+Technical Writer[SEP]
+Towards Data Science[SEP]
+2020/11/DD-Today[SEP]
+50+ technical articles about using Machine Learning applications on real world problems. 50k+ monthly views.[SEP]
+
+EXPERIENCE 3: 
+
+Data Scientist, Internship[SEP]
+Accenture[SEP]
+2021/02-2021/07[SEP]
+Developing Deep Learning techniques to decrease the scanning time of MRI scans[SEP]
+
+
+EXPERIENCE 4: 
+
+Data Scientist, Internship[SEP]
+University of Rome, Tor Vergata,Department of Solar Physics,[SEP]
+2020/09-2020/12[SEP]
+Developing Deep Learning algorithms to classify Solar Flares based on magnetograms[SEP]
+
+SCHOOL 1:
+
+University of Cincinnati[SEP]
+Aerospace Engineering and Engineering Mechanics[SEP]
+PhD[SEP]
+2021/08-Today[SEP]
+<insert text here>[SEP]
+
+SCHOOL 2:
+
+University of Rome, Tor Vergata[SEP]
+Physics of Complex Systems and Big Data[SEP]
+Master's Degree[SEP]
+2019/10-2021/05[SEP]
+Master’s thesis: Deep Learning algorithms for Magnetic Resonance Imaging scans acceleration. GPA = 4.0[SEP]
+
+SCHOOL 3:
+
+University of Rome, Tor Vergata[SEP]
+Physics[SEP]
+Bachelor's Degree[SEP]
+2016/10-2019/10[SEP]
+Bachelor’s thesis: Usage of a Deep Neural Network to predict the next solar cycle.[SEP]
+
+CONTACTS:
+
+Address: 1234 Street Name, City, State
+Phone Number: (111) 1234123
+LinkedIn Profile: https://www.linkedin.com/in/pieropaialunga/
