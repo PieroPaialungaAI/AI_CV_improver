@@ -89,14 +89,17 @@ _EXPERIENCE 1:_
 
 
 I have extensive experience in utilizing Machine Learning to create surrogate modeling and optimize the efficiency of Mechanical Engineering experiments. My research background includes both Traditional and Deep Machine Learning, and I am eager to apply my knowledge and skills to a new role.
+
 _EXPERIENCE 2:_
 
 
 I have authored over 50 technical articles on the use of Machine Learning applications to solve real-world problems, garnering 50,000+ monthly views.
+
 _EXPERIENCE 3:_
 
 
 Developing Deep Learning techniques to dramatically reduce the scanning time of MRI scans
+
 _EXPERIENCE 4:_
 
 
