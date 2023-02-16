@@ -14,4 +14,4 @@ Let's  describe them
 The application script uses the __streamlit__, that is an open-source app framework for Machine Learning and Data Science. 
 In order to run it, once you download the folder and the ```pip install requirements.txt``` file, you have to change the ```constants.py``` file and change it with the Open AI API key. (I know its a lot to do, but it OpenAI blocks your keys when they are shared online, so you have to put yours).
 
-If you do not have an Open AI API key, please follow the [https://openai.com/blog/openai-api/](OpenAI blogpost)
+If you do not have an Open AI API key, please follow the [Open AI blogpost](https://openai.com/blog/openai-api/)
