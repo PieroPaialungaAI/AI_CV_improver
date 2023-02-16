@@ -9,12 +9,16 @@ In particular, we will use the ChatGPT API to improve the __summary__ of  your C
 This project has two important applications. 
 Let's  describe them
 
-## Application script
+## 1. Application script
 
 The application script uses the __streamlit__, that is an open-source app framework for Machine Learning and Data Science. 
-In order to run it, once you download the folder and the ```pip install requirements.txt``` file, you have to change the ```constants.py``` file and change it with the Open AI API key. (Unfortunately, OpenAI blocks your keys when they are shared online, so mine wont work and you have to put yours).
+In order to run it, once you download the folder and the ```pip install requirements.txt``` file, you have to change the ```constants.py``` file and change it with the Open AI API key †. (Unfortunately, OpenAI blocks your keys when they are shared online, so mine wont work and you have to put yours).
 
-If you do not have an Open AI API key, please follow the [Open AI blogpost](https://openai.com/blog/openai-api/).
+† If you do not have an Open AI API key, please follow the [Open AI blogpost](https://openai.com/blog/openai-api/).
 
-Once that you have followed the procedure, what you'd have to do is to follow the procedure that the app will ask you. The app will provide you with a ```cv_template.txt``` file. Download it, fill it up with all your details. You can add __Experiences__, update the __summary__, delete __experiences__. 
+Once that you have followed the procedure, what you'd have to do is to run the app using:
+
+```streamlit run app.py```
+
+and follow the procedure that the app will ask you. The app will provide you with a ```cv_template.txt``` file. Download it, fill it up with all your details. You can add __Experiences__, update the __summary__, delete __experiences__. 
 
