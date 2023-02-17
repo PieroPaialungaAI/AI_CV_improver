@@ -113,7 +113,7 @@ I recently completed a Bachelor's thesis exploring the potential of a Deep Neura
 
 Thank you so much for reading this! If you want to stay in touch add me on 
 
-[Linkedin](https://www.linkedin.com/in/pieropaialunga/)
-[Medium](https://piero-paialunga.medium.com/)
-
+* [Linkedin](https://www.linkedin.com/in/pieropaialunga/)
+* [Medium](https://piero-paialunga.medium.com/)
+* Hit me up on email _piero.paialunga@hotmail.com_
 
