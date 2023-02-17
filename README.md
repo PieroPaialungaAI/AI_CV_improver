@@ -107,4 +107,13 @@ _EXPERIENCE 4:_
 
 I recently completed a Bachelor's thesis exploring the potential of a Deep Neural Network to predict the next solar cycle. My research focused on the development of a model that could accurately forecast solar activity and provide insight into future solar behavior. I employed a variety of techniques, including data mining, statistical analysis, and machine learning, to create a model that achieved a high degree of accuracy. My findings have the potential to significantly improve our understanding of solar activity and provide valuable information for predicting future solar cycles.
 
+***
+
+### Contacts!
+
+Thank you so much for reading this! If you want to stay in touch add me on 
+
+[Linkedin](https://www.linkedin.com/in/pieropaialunga/)
+[Medium](https://piero-paialunga.medium.com/)
+
 
