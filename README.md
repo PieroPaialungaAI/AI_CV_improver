@@ -1,5 +1,3 @@
-![resume_image](https://user-images.githubusercontent.com/55837093/219502853-4aa23234-a086-460d-a9c2-db809fc43247.jpeg)
-
 
 
 # CV Improver using Machine Learning
